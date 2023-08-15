@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_LightingSettings: {fileID: 4890085278179872738, guid: f6886863c22e490718adb50166dfb044,
+  m_LightingSettings: {fileID: 4890085278179872738, guid: 5cb4cdbbf555e0649bcced493a9e28a6,
     type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -201,13 +201,13 @@ PrefabInstance:
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.data[0].level
       value: 
-      objectReference: {fileID: 11400000, guid: 26e684242608d6ce38db99d237e732f1,
+      objectReference: {fileID: 11400000, guid: 2eafcc21b7f533b4089407a7e5a24c63,
         type: 2}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
@@ -217,69 +217,48 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
-      propertyPath: levels.Array.data[2].level
-      value: 
-      objectReference: {fileID: 11400000, guid: 491334d8325bdb445b17df01bf99b780,
-        type: 2}
-    - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
-        type: 3}
       propertyPath: levels.Array.data[0].displayName
-      value: La Cucharita
+      value: Grupo2_NivelBasico
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.data[0].oneStarTime
-      value: 35
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.data[0].twoStarTime
-      value: 30
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.data[1].displayName
-      value: "Domino M\xE1gico"
+      value: G2_0
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.data[1].oneStarTime
-      value: 30
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.data[1].twoStarTime
-      value: 25
-      objectReference: {fileID: 0}
-    - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
-        type: 3}
-      propertyPath: levels.Array.data[2].displayName
-      value: G2_NivelIntermedio
-      objectReference: {fileID: 0}
-    - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
-        type: 3}
-      propertyPath: levels.Array.data[2].oneStarTime
-      value: 30
-      objectReference: {fileID: 0}
-    - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
-        type: 3}
-      propertyPath: levels.Array.data[2].twoStarTime
-      value: 25
+      value: 26
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.data[0].threeStarTime
-      value: 12
+      value: 15.5
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.data[1].threeStarTime
-      value: 15.5
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
-      propertyPath: levels.Array.data[2].threeStarTime
-      value: 15.5
+      propertyPath: levels.Array.data[0].totalStarsRequired
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939642, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
@@ -385,36 +364,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2134953769336845006, guid: f4f4195bdbeed824983d38771f0f5b32,
-        type: 3}
-      propertyPath: m_text
-      value: SELECCION DE NIVEL
-      objectReference: {fileID: 0}
-    - target: {fileID: 2134953769336845006, guid: f4f4195bdbeed824983d38771f0f5b32,
-        type: 3}
-      propertyPath: m_fontSize
-      value: 85
-      objectReference: {fileID: 0}
-    - target: {fileID: 2134953769336845006, guid: f4f4195bdbeed824983d38771f0f5b32,
-        type: 3}
-      propertyPath: m_textAlignment
-      value: 65535
-      objectReference: {fileID: 0}
-    - target: {fileID: 2134953769336845006, guid: f4f4195bdbeed824983d38771f0f5b32,
-        type: 3}
-      propertyPath: m_TextStyleHashCode
-      value: -1183493901
-      objectReference: {fileID: 0}
-    - target: {fileID: 2134953769336845006, guid: f4f4195bdbeed824983d38771f0f5b32,
-        type: 3}
-      propertyPath: m_VerticalAlignment
-      value: 512
-      objectReference: {fileID: 0}
-    - target: {fileID: 2134953769336845006, guid: f4f4195bdbeed824983d38771f0f5b32,
-        type: 3}
-      propertyPath: m_HorizontalAlignment
-      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769336845006, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
