@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.7199961, g: 0.6925627, b: 0.73672247, a: 1}
+  m_IndirectSpecularColor: {r: 0.7199961, g: 0.6925627, b: 0.7367226, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -201,13 +201,19 @@ PrefabInstance:
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.data[0].level
       value: 
       objectReference: {fileID: 11400000, guid: 26e684242608d6ce38db99d237e732f1,
+        type: 2}
+    - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
+      propertyPath: levels.Array.data[1].level
+      value: 
+      objectReference: {fileID: 11400000, guid: 2f4d301a9ffdd564d89f4ca257a449a5,
         type: 2}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
@@ -226,7 +232,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
+      propertyPath: levels.Array.data[1].displayName
+      value: Basico G8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
+      propertyPath: levels.Array.data[1].oneStarTime
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
+      propertyPath: levels.Array.data[1].twoStarTime
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
       propertyPath: levels.Array.data[0].threeStarTime
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
+      propertyPath: levels.Array.data[1].threeStarTime
       value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939642, guid: f4f4195bdbeed824983d38771f0f5b32,
