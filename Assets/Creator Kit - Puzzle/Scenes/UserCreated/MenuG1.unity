@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.7199961, g: 0.6925627, b: 0.7367226, a: 1}
+  m_IndirectSpecularColor: {r: 0.7199878, g: 0.6925397, b: 0.7366869, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -201,7 +201,7 @@ PrefabInstance:
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.size
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
@@ -214,6 +214,12 @@ PrefabInstance:
       propertyPath: levels.Array.data[1].level
       value: 
       objectReference: {fileID: 11400000, guid: 2f4d301a9ffdd564d89f4ca257a449a5,
+        type: 2}
+    - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
+      propertyPath: levels.Array.data[2].level
+      value: 
+      objectReference: {fileID: 11400000, guid: 6be6a28bfe37540468f6a7cad2d33df3,
         type: 2}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
@@ -238,12 +244,27 @@ PrefabInstance:
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.data[1].oneStarTime
-      value: 35
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.data[1].twoStarTime
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
+      propertyPath: levels.Array.data[2].displayName
+      value: Esparta G8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
+      propertyPath: levels.Array.data[2].oneStarTime
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
+      propertyPath: levels.Array.data[2].twoStarTime
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
@@ -253,7 +274,12 @@ PrefabInstance:
     - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
       propertyPath: levels.Array.data[1].threeStarTime
-      value: 12
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 2134953769307939638, guid: f4f4195bdbeed824983d38771f0f5b32,
+        type: 3}
+      propertyPath: levels.Array.data[2].threeStarTime
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 2134953769307939642, guid: f4f4195bdbeed824983d38771f0f5b32,
         type: 3}
