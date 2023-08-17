@@ -7,8 +7,8 @@ Estos niveles no necesitan logros previos y son pensados como punto de entrada a
 | NOMBRE DEL NIVEL | GRUPO | AUTORES |
 | ---------------- | ----- | ------- |
 | La Cucharita     | Formador | Wilmar Arcila Castaño |
-| xxxxxx           | G1    | XXXXX - YYYYY - ZZZZZ |
-| Dominó Mágico           | G2    | Miguel Páez - Juan Caicedo - Angie Herrán |
+| SphereBot        | G1    | Santiago - Yuliana - Monica |
+| Dominó Mágico    | G2    | Miguel Páez - Juan Caicedo - Angie Herrán |
 | xxxxxx           | G3    | XXXXX - YYYYY - ZZZZZ |  
 
 ## Niveles Intermedios
