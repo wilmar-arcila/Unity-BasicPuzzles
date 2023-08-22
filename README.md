@@ -17,7 +17,7 @@ Estos niveles necesitan que el jugador haya conseguido un número mínimo de est
 | NOMBRE DEL NIVEL | GRUPO | AUTORES | ESTRELLAS REQUERIDAS |
 | ---------------- | ----- | ------- | -------------------- |
 | xxxxxx           | G1    | XXXXX - YYYYY - ZZZZZ | 7 |
-| xxxxxx           | G2    | XXXXX - YYYYY - ZZZZZ | 10 |
+| Zoo Papeliko           | G2    | Miguel Páez - Juan Caicedo - Angie Herrán | 10 |
 | xxxxxx           | G3    | XXXXX - YYYYY - ZZZZZ | 8 |  
 
 ## Niveles Avanzados
