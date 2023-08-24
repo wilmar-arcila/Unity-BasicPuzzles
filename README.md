@@ -16,7 +16,7 @@ Estos niveles necesitan que el jugador haya conseguido un número mínimo de est
 
 | NOMBRE DEL NIVEL | GRUPO | AUTORES | ESTRELLAS REQUERIDAS |
 | ---------------- | ----- | ------- | -------------------- |
-| xxxxxx           | G1    | XXXXX - YYYYY - ZZZZZ | 7 |
+| xxxxxx           | G1    | Santiago - Yuliana - Monica | 7 |
 | xxxxxx           | G2    | XXXXX - YYYYY - ZZZZZ | 10 |
 | xxxxxx           | G3    | XXXXX - YYYYY - ZZZZZ | 8 |  
 
@@ -25,6 +25,6 @@ Niveles con todos los juguetes.
 
 | NOMBRE DEL NIVEL | GRUPO | AUTORES | ESTRELLAS REQUERIDAS |
 | ---------------- | ----- | ------- | -------------------- |
-| xxxxxx           | G1    | XXXXX - YYYYY - ZZZZZ | 7 |
+| xxxxxx           | G1    | Santiago - Yuliana - Monica | 7 |
 | xxxxxx           | G2    | XXXXX - YYYYY - ZZZZZ | 10 |
 | xxxxxx           | G3    | XXXXX - YYYYY - ZZZZZ | 8 |
